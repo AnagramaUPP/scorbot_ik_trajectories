@@ -1,4 +1,5 @@
 # Scorbot IK Trajectories - ROS 2 Jazzy
+<img width="1557" height="724" alt="image" src="https://github.com/user-attachments/assets/2efba6f4-816e-47a4-8a72-f7ee1bf88408" />
 
 ## Overview
 
