@@ -325,19 +325,14 @@ This project can serve as a foundation for:
 
 # Author
 
-**Mitchell Angel Gómez Ortega**
+Dr. Mitchell Angel Gómez Ortega
 
-Ph.D. Student in Mechatronics Engineering
 
-Universidad Politécnica de Tecámac
+
+Universidad Politécnica de Pachuca
 
 ---
 
 # License
 
 Apache License 2.0
-
-
-# Licencia
-
-Apache 2.0
